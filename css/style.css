@@ -11,6 +11,9 @@ body {
     font-family: "Alata", sans-serif;
     font-weight: 400;
     font-style: normal;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto; /* header - contenido - footer */
   }
   
   header {
@@ -57,6 +60,11 @@ body {
  /*   fin logo */ 
 
 /* Mapa */
+
+.mapa {
+  
+   
+}
 
 .st0 {
     fill: #e4eafc;
@@ -212,7 +220,7 @@ img {
 
 footer {
     color: #ae24e5;
-    margin:3%;
+    margin:1%;
     
 }
 
