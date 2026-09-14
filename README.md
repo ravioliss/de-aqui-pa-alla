@@ -30,13 +30,14 @@ Este proyecto es una **reescritura completa** del proyecto para el restaurante D
 ## 🛠️ Tecnologías utilizadas
 
 **Frontend:**
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3
 
 
 **Herramientas:**
 - VSCode
 - Git & GitHub
 - Google Fonts
+- Netlify
 
 ---
 
@@ -50,16 +51,3 @@ Este proyecto es una **reescritura completa** del proyecto para el restaurante D
 
 ---
 
-## 🚀 Instalación y uso
-
-### Requisitos previos
-- Node.js >= 18
-
-### Pasos
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/ravioliss/de-aqui-pa-alla
-cd de-aqui-pa-alla
-
-# abrir proyecto en el liveview de VsCode
