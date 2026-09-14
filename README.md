@@ -30,7 +30,7 @@ Este proyecto es una **reescritura completa** del proyecto para el restaurante D
 ## 🛠️ Tecnologías utilizadas
 
 **Frontend:**
-- HTML5, CSS3
+- HTML5, CSS3, JavaScript
 
 
 **Herramientas:**
