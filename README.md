@@ -59,7 +59,7 @@ Este proyecto es una **reescritura completa** del proyecto para el restaurante D
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-proyecto.git
-cd tu-proyecto
+git clone https://github.com/ravioliss/de-aqui-pa-alla
+cd de-aqui-pa-alla
 
-# abrir prroyecto en el liveview de VsCode
+# abrir proyecto en el liveview de VsCode
